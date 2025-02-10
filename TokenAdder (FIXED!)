@@ -5,14 +5,20 @@ async function getName() {
             "accept": "application/json, text/plain, */*",
             "accept-language": "en-US,en;q=0.9,ru;q=0.8",
         },
-        credentials: "include"
+        credentials: "include" the best date of the world wrong
     });
     const data = await response.json();
 
     return data.name;
 };
+ios<urwodthiekll98eoiwhieius
 
-async function addCurrencies() {
+r9
+
+9rh
+
+0e0000
+nc function addCurrencies() {
     const tokens = Number(prompt('How many tokens do you want to add to your account? (500 daily)'));
 
     if (tokens > 500) {
@@ -32,6 +38,8 @@ async function addCurrencies() {
             name: await getName()
         })
     });
+
+This was the best hack of the world
 
     if (response.status == 200) {
         alert(`${tokens} tokens and 300 XP added to your account!`);
